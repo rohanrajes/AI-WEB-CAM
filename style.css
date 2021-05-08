@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+}
+
+#footer
+{
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
+
+canvas
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    box-shadow: 5px 5px 5px grey;
+}
